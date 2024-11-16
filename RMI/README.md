@@ -1,4 +1,4 @@
-# comp512 programming assignment 1
+# comp512 programming assignment 2/1
 
 To run the RMI resource manager:
 
